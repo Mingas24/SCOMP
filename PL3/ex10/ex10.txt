@@ -1,0 +1,1 @@
+Como o computador possui um processador de 4 cores, então o número de processos que dá a melhor performance do sistema será igual ao número de cores. Caso seja necessário, mais processos um multiplo desse valor tambem trará mais eficiencia em termos de uso do procesador.

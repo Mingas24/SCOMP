@@ -1,0 +1,3 @@
+# CLion Specific
+.idea/
+cmake-build-debug/

@@ -1,0 +1,2 @@
+Os resultados poderam não ser sempre corretos já que um dos processos pode fazer as duas operações quando o outro apenas fez uma. 
+Por exemplo se o processo pai adicionar 1 ao valor e antes de poder retirar 1, o processo filho aumentar e retirar 1 então no processo filho o print vai ser 101 e não 100.
